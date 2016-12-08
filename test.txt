@@ -2,3 +2,4 @@ test
 test02
 test03
 test00004
+gitcopy modify test.
